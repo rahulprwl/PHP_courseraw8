@@ -39,7 +39,7 @@ else
     <form method=\"POST\" action=\"#\">
     <input type=\"text\" placeholder=\"Username\" name=\"who\">
     <input type=\"password\" placeholder=\"Password\" name=\"pass\">
-    <input type=\"Submit\" placeholder=\"Submit\" name=\"Log_in\" value=\"Log In\">
+    <input type=\"Submit\" name=\"Log_in\" value=\"Log In\">
     </form>
     </fieldset>
     </body>
