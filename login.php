@@ -26,9 +26,9 @@ else
     <!DOCTYPE html>
     <html lang=\"en\">
     <head>
-        <title>
-            Rahul porwal made RPS game
-        </title>
+    <title>
+    Rahul Porwal c92e246c made RPS game
+</title>
         <meta charset=\"UTF-8\">
     </head>
     <body>
