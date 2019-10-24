@@ -16,7 +16,10 @@ if(isset($_POST["Log_in"]))
     }
     else
     {
-        die("Incorrect Password");
+        die("<head><title>
+        Rahul Porwal c92e246c made RPS game
+    </title></head>
+    Incorrect Password");
     }
 }
 
