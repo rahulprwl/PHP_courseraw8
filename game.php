@@ -5,7 +5,7 @@ session_start();
     <html lang="en">
     <head>
         <title>
-            Rahul porwal made RPS game
+            Rahul Porwal c92e246c made RPS game
         </title>
         <meta charset="UTF-8">
     </head>
@@ -22,7 +22,7 @@ session_start();
                 <option value="2">Scissor</option>
                 <option value="3">Test</option>
                 </select>
-                <input type="Submit" placeholder="Submit" name="play">
+                <input type="submit" placeholder="Submit" name="play" value="Play">
             </form>
         </fieldset>
         <div>
