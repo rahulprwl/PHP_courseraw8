@@ -11,6 +11,6 @@ Rahul porwal made RPS game
 Welcome to Rock Paper Scissors
 </h1>
 <p>
-Please head to <a href="/login.php">Login Page</a></p>
+Please head to <a href="https://phpweek8.herokuapp.com/login.php">Login Page</a></p>
 </body>
 </html>
